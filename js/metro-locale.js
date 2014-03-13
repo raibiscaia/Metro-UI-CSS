@@ -123,6 +123,20 @@
             buttons: [
                "Hoy", "Limpiar", "Cancel", "Help", "Prior", "Next", "Finish"
             ]
+        },
+        /** By Raí Biscaia (raibiscaia@live.com) */
+        'ptBR': {
+            months: [
+                "Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro",
+                "Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"
+            ],
+            days: [
+                "Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado",
+                "Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb"
+            ],
+            buttons: [
+                "Hoje", "Limpar", "Cancelar", "Ajuda", "Anterior", "Próximo", "Fim"
+            ]
         }
     };
 
